@@ -1,7 +1,7 @@
 **Criminal Face detection system**
 
 
-With increase in crimes it is necessary to enforce security. This criminal face detection system helps the law enforcement agencies to detect the criminals with the use of video surveillance embedded in the CCTVs.
+With increase in crimes, it is necessary to enforce security. This criminal face detection system helps the law enforcement agencies to detect the criminals with the use of video surveillance embedded in the CCTVs.
 A large centralized database is maintained to store the data of the criminals. The criminals may escape and be a threat to the people in the country. The CCTVs and security systems around the country will detect the criminals and send the alert to the law enforcement agencies. This way the security is ensured in the country.
 
 
