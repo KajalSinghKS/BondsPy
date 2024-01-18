@@ -1,4 +1,4 @@
-<h1>**Criminal Face detection system**</h1>
+<h1>Criminal Face detection system</h1>
 
 
 With increase in crimes, it is necessary to enforce security. This criminal face detection system helps the law enforcement agencies to detect the criminals with the use of video surveillance embedded in the CCTVs.
