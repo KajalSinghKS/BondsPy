@@ -13,7 +13,7 @@ gc.collect()
 #-----------------------
 
 
-#For Linux write the same path as i wrote for windows it is different just locate the frontalface_default.xml file in haarcascade in anaconda
+#For Linux write the same path as wrote for windows it is different just locate the frontalface_default.xml file in haarcascade in anaconda
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 def preprocess_image(image_path):
